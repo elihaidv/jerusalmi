@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jerusalmi</string>
+    <string name="dafyomibutton">דף יומי</string>
+    <string name="browserButton">דפדפן</string>
+    <string name="title_activity_about">about</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
