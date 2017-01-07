@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.vanunu.elihai.jerusalmi.MainActivity"
+    android:background="@drawable/background">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/main"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rowCount="1"
+        android:columnCount="2"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        >
+        <Button
+            android:text="@string/dafyomibutton"
+            android:layout_column="0"
+            android:onClick="dafYpmiClick"
+            android:drawableTop="@drawable/ic_class_black_24dp"/>
+        <Button
+            android:text="@string/browserButton"
+            android:layout_column="1"
+            android:onClick="browser"
+            android:drawableTop="@drawable/ic_explore_black_24dp"/>
+        <Button
+            android:text="הדף האחרון"
+            android:layout_column="0"
+            android:onClick="prevDaf"
+            android:drawableTop="@drawable/ic_history_black_24dp"/>
+        <Button
+            android:text="אודות"
+            android:layout_column="1"
+            android:onClick="aboutClicked"
+            android:drawableTop="@drawable/ic_info_outline_black_24dp"/>
+
+    </GridLayout>
+</RelativeLayout>
