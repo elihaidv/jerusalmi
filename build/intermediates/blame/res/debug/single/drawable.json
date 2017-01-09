@@ -96,6 +96,10 @@
         "source": "/home/elihai/AndroidStudioProjects/Jerusalmi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "/home/elihai/AndroidStudioProjects/Jerusalmi/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/elihai/AndroidStudioProjects/Jerusalmi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/home/elihai/AndroidStudioProjects/Jerusalmi/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
         "source": "/home/elihai/AndroidStudioProjects/Jerusalmi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/notification_bg_low.xml"
     },
@@ -142,6 +146,10 @@
     {
         "merged": "/home/elihai/AndroidStudioProjects/Jerusalmi/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
         "source": "/home/elihai/AndroidStudioProjects/Jerusalmi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/elihai/AndroidStudioProjects/Jerusalmi/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/elihai/AndroidStudioProjects/Jerusalmi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/elihai/AndroidStudioProjects/Jerusalmi/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",

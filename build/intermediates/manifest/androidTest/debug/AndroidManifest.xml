@@ -3,7 +3,7 @@
     package="com.vanunu.elihai.jerusalmi.test" >
 
     <uses-sdk
-        android:minSdkVersion="22"
+        android:minSdkVersion="15"
         android:targetSdkVersion="25" />
 
     <instrumentation
